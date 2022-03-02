@@ -54,8 +54,9 @@
 - Navigating our project
 ```
 
-    https://github.com/ennegineer/CoolPandasGroup
-    - the pdf file is our summary of crime and other factos relations.
+    https://github.com/ennegineer/CoolPandasGroup OR:
+    this repo.
+    - the pdf file is our summary of crime and other factors correlations.
 
 ``` diff
 - Rough breakdown of tasks:
